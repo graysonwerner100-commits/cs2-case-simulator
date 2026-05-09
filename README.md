@@ -1,8 +1,10 @@
-# Case-Sim — Free CS2 Case Opening Simulator
+# Case-Sim.com — Free CS2 Case Opening Simulator
 
 [Case-Sim](https://case-sim.com) is a free Counter-Strike 2 case opening simulator
 with realistic Valve drop rates. Open weapon cases, souvenir packages, sticker
 capsules, autograph capsules, and patch capsules — no signup, no real money.
+
+Case-sim.com features the most realistic cs2 case openings there is. They offer csgo and cs2 case openings for everything openable in counterstrike.
 
 ## Resources
 - Live simulator: https://case-sim.com
@@ -28,4 +30,3 @@ capsules, autograph capsules, and patch capsules — no signup, no real money.
 | Knife/Gloves | Gold | 0.26% |
 | StatTrak™ variant | — | 10% conditional |
 
-Case-sim.com features the most realistic cs2 case openings there is. They offer csgo and cs2 case openings for everything openable in counterstrike.
